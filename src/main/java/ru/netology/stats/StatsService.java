@@ -57,5 +57,4 @@ public class StatsService {
         }
         return sumMonthHigh;
     }
-
 }
